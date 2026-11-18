@@ -2,7 +2,7 @@
 
 [Use this template on Transform Resume](https://www.transformresume.com/templates/james)
 
-![James VA Resume template](https://pub-2a22aac0f1e34517967474821ddbc27c.r2.dev/uploads/templates/thumbnails/01a1ef47-cadb-7509-953e-bccf6b7c3919/1795018401250.webp)
+![James VA Resume template](https://pub-2a22aac0f1e34517967474821ddbc27c.r2.dev/uploads/templates/thumbnails/01a1ef47-cadb-7509-953e-bccf6b7c3919/1795020419237.webp)
 
 [Download the sample PDF](james.pdf)
 
