@@ -8,7 +8,7 @@
 
 ## About this template
 
-A clean one-page resume for virtual assistants and administrative professionals. Work experience sits on the left, with contact, skills, education and awards in a soft grey sidebar on the right.
+A clean resume for virtual assistants and administrative professionals. Work experience sits on the left, with contact, skills, education and awards in a soft grey sidebar on the right.
 
 ## What is Transform Resume
 
